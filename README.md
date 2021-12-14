@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lezoulou
-- 👀 I’m interested in créer des applications qui parle à mon ordinateur 
+- 👀 I’m interested in créer à des applications qui parle à mon ordinateur 
 - 🌱 I’m currently learning python et javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me par é-mail
 
 <!---
 lezoulou/lezoulou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
